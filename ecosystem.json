@@ -95,6 +95,126 @@
           "address": "lab.roughtime.netnod.se:2002"
         }
       ]
+    },
+    {
+      "name": "falseticker.roughtime.netnod.se",
+      "publicKeyType": "ed25519",
+      "publicKey": "iFY9glIn8SHGtkFTdUECYdC37T4PNM2YSFzjbEbmfZI=",
+      "newver": true,
+      "addresses": [
+        {
+          "protocol": "udp",
+          "address": "falseticker.roughtime.netnod.se:2002"
+        }
+      ]
+    },
+    {
+      "name": "falseticker.roughtime.netnod.se",
+      "publicKeyType": "ed25519",
+      "publicKey": "iFY9glIn8SHGtkFTdUECYdC37T4PNM2YSFzjbEbmfZI=",
+      "newver": true,
+      "addresses": [
+        {
+          "protocol": "udp",
+          "address": "falseticker.roughtime.netnod.se:2000"
+        }
+      ]
+    },
+    {
+      "name": "falseticker.roughtime.netnod.se",
+      "publicKeyType": "ed25519",
+      "publicKey": "iFY9glIn8SHGtkFTdUECYdC37T4PNM2YSFzjbEbmfZI=",
+      "newver": true,
+      "addresses": [
+        {
+          "protocol": "udp",
+          "address": "falseticker.roughtime.netnod.se:2001"
+        }
+      ]
+    },
+    {
+      "name": "falseticker.roughtime.netnod.se",
+      "publicKeyType": "ed25519",
+      "publicKey": "iFY9glIn8SHGtkFTdUECYdC37T4PNM2YSFzjbEbmfZI=",
+      "newver": true,
+      "addresses": [
+        {
+          "protocol": "udp",
+          "address": "falseticker.roughtime.netnod.se:2003"
+        }
+      ]
+    },
+    {
+      "name": "falseticker.roughtime.netnod.se",
+      "publicKeyType": "ed25519",
+      "publicKey": "iFY9glIn8SHGtkFTdUECYdC37T4PNM2YSFzjbEbmfZI=",
+      "newver": true,
+      "addresses": [
+        {
+          "protocol": "udp",
+          "address": "falseticker.roughtime.netnod.se:2004"
+        }
+      ]
+    },
+    {
+      "name": "falseticker.roughtime.netnod.se",
+      "publicKeyType": "ed25519",
+      "publicKey": "iFY9glIn8SHGtkFTdUECYdC37T4PNM2YSFzjbEbmfZI=",
+      "newver": true,
+      "addresses": [
+        {
+          "protocol": "udp",
+          "address": "falseticker.roughtime.netnod.se:2005"
+        }
+      ]
+    },
+    {
+      "name": "falseticker.roughtime.netnod.se",
+      "publicKeyType": "ed25519",
+      "publicKey": "iFY9glIn8SHGtkFTdUECYdC37T4PNM2YSFzjbEbmfZI=",
+      "newver": true,
+      "addresses": [
+        {
+          "protocol": "udp",
+          "address": "falseticker.roughtime.netnod.se:2006"
+        }
+      ]
+    },
+    {
+      "name": "falseticker.roughtime.netnod.se",
+      "publicKeyType": "ed25519",
+      "publicKey": "iFY9glIn8SHGtkFTdUECYdC37T4PNM2YSFzjbEbmfZI=",
+      "newver": true,
+      "addresses": [
+        {
+          "protocol": "udp",
+          "address": "falseticker.roughtime.netnod.se:2007"
+        }
+      ]
+    },
+    {
+      "name": "falseticker.roughtime.netnod.se",
+      "publicKeyType": "ed25519",
+      "publicKey": "iFY9glIn8SHGtkFTdUECYdC37T4PNM2YSFzjbEbmfZI=",
+      "newver": true,
+      "addresses": [
+        {
+          "protocol": "udp",
+          "address": "falseticker.roughtime.netnod.se:2008"
+        }
+      ]
+    },
+    {
+      "name": "falseticker.roughtime.netnod.se",
+      "publicKeyType": "ed25519",
+      "publicKey": "iFY9glIn8SHGtkFTdUECYdC37T4PNM2YSFzjbEbmfZI=",
+      "newver": true,
+      "addresses": [
+        {
+          "protocol": "udp",
+          "address": "falseticker.roughtime.netnod.se:2009"
+        }
+      ]
     }
   ]
 }
